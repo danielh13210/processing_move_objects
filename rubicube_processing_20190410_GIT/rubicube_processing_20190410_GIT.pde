@@ -1,5 +1,6 @@
 /**
 I built this rubik cube from nine small cubes.
+Written by Daniel
 **/
 float a=0.0;
 void setup(){
